@@ -36,3 +36,6 @@ pip install -r requirements.txt
 python src/train.py
 
 python src/predict.py
+
+Match: Arsenal vs Liverpool
+Prediction: Home Win (Probabilities: Home 0.61, Draw 0.22, Away 0.17)
